@@ -1,0 +1,24 @@
+Linear Regression Results
+========================
+MAE: 970043.4039
+MSE: 1754318687330.6643
+RMSE: 1324506.9601
+R² Score: 0.6529
+
+Intercept (b0): 260032.3576
+
+Coefficients:
+                                  Coefficient
+area                             2.359688e+02
+bedrooms                         7.677870e+04
+bathrooms                        1.094445e+06
+stories                          4.074766e+05
+parking                          2.248419e+05
+mainroad_yes                     3.679199e+05
+guestroom_yes                    2.316100e+05
+basement_yes                     3.902512e+05
+hotwaterheating_yes              6.846499e+05
+airconditioning_yes              7.914267e+05
+prefarea_yes                     6.298906e+05
+furnishingstatus_semi-furnished -1.268818e+05
+furnishingstatus_unfurnished    -4.136451e+05
